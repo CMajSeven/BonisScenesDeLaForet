@@ -1,5 +1,5 @@
 Missings accidentals are notated with brackets.
-Full score taken to be authoritarian over part scores, because it generally has more specified. 
+Full score taken to be authoritarian over part scores, because it generally has more specified.
 Movement 1
 ------------------------------
 Measure 11 : Piano LH has repeat sign on beat 2. Based on similar measures, this should be a rest.
