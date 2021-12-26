@@ -1,25 +1,39 @@
 Missings accidentals are notated with brackets.
 Full score taken to be authoritarian over part scores, because it generally has more specified.
+
 Movement 1
 ------------------------------
 Measure 11 : Piano LH has repeat sign on beat 2. Based on similar measures, this should be a rest.
+Measure 12 : Flute in full score has measure repeat. Part has it written out but without articulation. Articulation placed back in.
+Measure 17 : Flute has no tie on Eb in FS, but tied in part.
+Measure 25 : Piano part likely missing Db.
 
 Movement 2
 ------------------------------
+Measure 11 : Horn slurs only in part.
 Measure 15, 16 : Flute, horn articulation is different between part and full score.
+Measure 22 : Flute only has slur in FS.
+Measure 27 : Flute only has slur in FS. Final G only in FS.
+Measure 29 : Horn slur only in FS.
+Measure 35 : p only in FS.
+Measure 47 : Flute incoming tie only in FS; decrescendo only in FS.
 Measure 48, 49 : Horn in full score has slur across 2 measures. In part, only across 1 measure each.
 Measure 59 : Horn has decrescendo only in part.
 Measure 62 : Horn has decrescendo only in part. Last 2 notes not tied in part score.
+Measure 67 : Flute decrescendo only in FS.
+Measures 70, 71 : Flute decrescendos only in FS.
 
 Movement 3
 ------------------------------
-Measure 17, 18 : Horn slur includes last beat A in horn part.
+Measure 16 : Flute slur only in part.
+Measures 17, 18 : Horn slur includes last beat A in horn part.
+Measure 30: Flute last note is quarter note in part, eighth note in FS.
 
 Movement 4
 ------------------------------
 Measure 91 : Piano LH has Cbb instead of Bbb.
-
-Notes:
+Measures 91-98 : Flute slur extends through entirety in part.
+Measures 116-119: Flute crescendo only in FS.
 
 Differences from Ruhland-Wiek recording:
 Some differences in articulation, note length, rhythm.
