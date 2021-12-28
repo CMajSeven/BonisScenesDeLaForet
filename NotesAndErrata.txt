@@ -27,7 +27,9 @@ Movement 3
 ------------------------------
 Measure 16 : Flute slur only in part.
 Measures 17, 18 : Horn slur includes last beat A in horn part.
-Measure 30: Flute last note is quarter note in part, eighth note in FS.
+Measure 30 : Flute last note is quarter note in part, eighth note in FS.
+Measure 62 : It is difficult to tell whether the piano LH last beat flat is a courtesy on the B or on the D.
+Measure 69 : Piano RH last beat maybe C natural?
 
 Movement 4
 ------------------------------
@@ -44,3 +46,7 @@ Measure 44 horn is muted.
 Movement 2 measures 12 and 13 in RW Horn repeats measures 8 and 9.
 A measure with a'4. d'' c'' d'' in the Horn is inserted between measures 19 and 20 in RW. Beat 4 of measure 19 has Bb.
 Movement 3 measure 34 beat 3 flute has C Bb instead of Bb A.
+
+Dorico Notes
+------------------------------
+Movement 3 Measure 36 : Need to change parentheses to brackets in post.
