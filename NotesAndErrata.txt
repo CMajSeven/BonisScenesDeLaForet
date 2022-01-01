@@ -46,11 +46,12 @@ Measure 210 : Piano missing treble clef.
 Differences from Ruhland-Wiek recording:
 Some differences in articulation, note length, rhythm.
 Movement 1 graces notes are slightly different in flute.
-Measuere 13 beat 3.5 flute plays G instead of G#.
+Measuere 13 beat 3.5 flute plays G instead of G#. Sim next measure
 Measure 22 in RW is repeated once more by the piano.
 Measure 44 horn is muted.
 Movement 2 measures 12 and 13 in RW Horn repeats measures 8 and 9.
 A measure with a'4. d'' c'' d'' in the Horn is inserted between measures 19 and 20 in RW. Beat 4 of measure 19 has Bb.
+Measure 50 second half in flute, the top notes (only) are played as dotted eighths.
 Movement 3 measure 34 beat 3 flute has C Bb instead of Bb A.
 
 Dorico Notes
