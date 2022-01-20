@@ -54,6 +54,14 @@ A measure with a'4. d'' c'' d'' in the Horn is inserted between measures 19 and 
 Measure 50 second half in flute, the top notes (only) are played as dotted eighths.
 Movement 3 measure 34 beat 3 flute has C Bb instead of Bb A.
 
+CHANGELOG
+------------------------------
+Version 1.1:
+Added piano part
+Removed excess accidentals in mvt. 1 piano
+Fix rehearsal 5 collision
+Vertically align tempo markings
+
 Dorico Notes
 ------------------------------
 Movement 2 Measure 36 : Need to change parentheses to brackets in post
