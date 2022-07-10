@@ -63,6 +63,7 @@ Fix rehearsal 5 collision
 Vertically align tempo markings
 Replaced measures 5 and 6 in horn part with bar repeats to be more in line with manuscript (and be less weird).
 Moved some dynamics in piano so that staves aren't so far apart.
+Add in ossias from recording.
 
 Dorico Notes
 ------------------------------
